@@ -1,0 +1,3 @@
+rootProject.name = 'react_native_http_request'
+
+include ':app'
